@@ -13,7 +13,7 @@ namespace Database.Entites
 
         //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         //{
-        //    optionsBuilder.UseSqlServer("Server=.;Database=TaskalyzeDbHackthoon;User Id=sa;Password=sa123456;TrustServerCertificate=True");
+        //    optionsBuilder.UseSqlServer("");
         //}
         protected override void ConfigureConventions(ModelConfigurationBuilder configurationBuilder)
         {

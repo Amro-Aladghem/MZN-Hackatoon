@@ -7,15 +7,19 @@
       "RelativeMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|solutionrelative:jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8EC5D05-FAD6-4E45-A4E9-6BBFC1655D44}|..\\Database\\Database.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\database\\entites\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|solutionrelative:jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|solutionrelative:controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -32,10 +36,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\controllers\\jobapplicationresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|solutionrelative:controllers\\jobapplicationresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|solutionrelative:controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\controllers\\applicationoffercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -538,7 +538,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
@@ -582,18 +582,52 @@
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAArwH4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:03:53.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Database\\Entites\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Database\\Entites\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Database\\Entites\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Database\\Entites\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T13:45:35.567Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "JobApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Controllers\\JobApplicationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobApplicationController.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Controllers\\JobApplicationController.cs",
+              "RelativeToolTip": "Controllers\\JobApplicationController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:50:44.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "JwtOptions.cs",
               "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\JwtOptions.cs",
               "RelativeDocumentMoniker": "JwtOptions.cs",
               "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\JwtOptions.cs",
               "RelativeToolTip": "JwtOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T08:56:49.12Z",
               "EditorCaption": ""
@@ -604,16 +638,16 @@
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\appsettings.Development.json*",
-              "RelativeToolTip": "appsettings.Development.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-08T15:51:29.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "JwtFromCookieMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\MiddleWares\\JwtFromCookieMiddleware.cs",
               "RelativeDocumentMoniker": "MiddleWares\\JwtFromCookieMiddleware.cs",
@@ -621,42 +655,19 @@
               "RelativeToolTip": "MiddleWares\\JwtFromCookieMiddleware.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAArwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T11:09:02.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAGgAAAAAAAAAAAArwH4AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T08:03:53.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T11:09:02.74Z"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Database\\Entites\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "..\\Database\\Entites\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Database\\Entites\\AppDbContext.cs",
-              "RelativeToolTip": "..\\Database\\Entites\\AppDbContext.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAkwHkAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T13:45:35.567Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\TokenService.cs",
               "RelativeDocumentMoniker": "TokenService.cs",
@@ -664,12 +675,11 @@
               "RelativeToolTip": "TokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T10:27:40.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T10:27:40.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "HandleGlobalExeptionMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\MiddleWares\\HandleGlobalExeptionMiddleware.cs",
               "RelativeDocumentMoniker": "MiddleWares\\HandleGlobalExeptionMiddleware.cs",
@@ -677,12 +687,11 @@
               "RelativeToolTip": "MiddleWares\\HandleGlobalExeptionMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T17:57:33.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T17:57:33.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "JobApplicationResultController.cs",
               "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Controllers\\JobApplicationResultController.cs",
               "RelativeDocumentMoniker": "Controllers\\JobApplicationResultController.cs",
@@ -690,21 +699,7 @@
               "RelativeToolTip": "Controllers\\JobApplicationResultController.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAqwLAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T13:52:01.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "JobApplicationController.cs",
-              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Controllers\\JobApplicationController.cs",
-              "RelativeDocumentMoniker": "Controllers\\JobApplicationController.cs",
-              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Controllers\\JobApplicationController.cs",
-              "RelativeToolTip": "Controllers\\JobApplicationController.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAAAAUBAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T10:50:44.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T13:52:01.305Z"
             },
             {
               "$type": "Document",
@@ -716,8 +711,7 @@
               "RelativeToolTip": "Controllers\\ApplicationOfferController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:41:29.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T11:41:29.638Z"
             },
             {
               "$type": "Document",
@@ -801,8 +795,7 @@
               "RelativeToolTip": "Controllers\\SeekerController.cs",
               "ViewState": "AgIAAG8AAAAAAAAAAAAnwH4AAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T10:19:05.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T10:19:05.422Z"
             },
             {
               "$type": "Document",
@@ -838,8 +831,7 @@
               "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Services\\PersonServices\\PersonService.cs",
               "ViewState": "AgIAAJIAAAAAAAAAAAAnwKcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T11:29:01.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T11:29:01.929Z"
             },
             {
               "$type": "Document",
@@ -887,8 +879,7 @@
               "RelativeToolTip": "Controllers\\RecruiterController.cs",
               "ViewState": "AgIAAJIAAAAAAAAAAAArwI4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T08:07:36.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T08:07:36.782Z"
             },
             {
               "$type": "Document",
@@ -1320,8 +1311,7 @@
               "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\ExternalServices\\AIServices\\ApplicationSumbitWithGeminiFlashLiteService.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAYwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T16:50:28.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T16:50:28.291Z"
             },
             {
               "$type": "Document",
