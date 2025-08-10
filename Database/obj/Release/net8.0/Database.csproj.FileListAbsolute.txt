@@ -1,0 +1,14 @@
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\bin\Release\net8.0\Database.deps.json
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\bin\Release\net8.0\Database.runtimeconfig.json
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\bin\Release\net8.0\Database.dll
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\bin\Release\net8.0\Database.pdb
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\obj\Release\net8.0\Database.csproj.AssemblyReference.cache
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\obj\Release\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\obj\Release\net8.0\Database.AssemblyInfoInputs.cache
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\obj\Release\net8.0\Database.AssemblyInfo.cs
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\obj\Release\net8.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\obj\Release\net8.0\Database.dll
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\obj\Release\net8.0\refint\Database.dll
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\obj\Release\net8.0\Database.pdb
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\obj\Release\net8.0\Database.genruntimeconfig.cache
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\obj\Release\net8.0\ref\Database.dll

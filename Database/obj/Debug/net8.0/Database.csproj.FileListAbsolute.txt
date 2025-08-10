@@ -1,0 +1,44 @@
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\bin\Debug\net8.0\Database.deps.json
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\bin\Debug\net8.0\Database.runtimeconfig.json
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\bin\Debug\net8.0\Database.dll
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\bin\Debug\net8.0\Database.pdb
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\obj\Debug\net8.0\Database.dll
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\obj\Debug\net8.0\refint\Database.dll
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\obj\Debug\net8.0\Database.pdb
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\obj\Debug\net8.0\Database.genruntimeconfig.cache
+C:\Users\Khaled\Desktop\Taskalyze backend\Database\obj\Debug\net8.0\ref\Database.dll
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon\Database\bin\Debug\net8.0\Database.deps.json
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon\Database\bin\Debug\net8.0\Database.runtimeconfig.json
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon\Database\bin\Debug\net8.0\Database.dll
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon\Database\bin\Debug\net8.0\Database.pdb
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon\Database\obj\Debug\net8.0\Database.sourcelink.json
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon\Database\obj\Debug\net8.0\Database.dll
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon\Database\obj\Debug\net8.0\refint\Database.dll
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon\Database\obj\Debug\net8.0\Database.pdb
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon\Database\obj\Debug\net8.0\Database.genruntimeconfig.cache
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon\Database\obj\Debug\net8.0\ref\Database.dll
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon - 2\Database\bin\Debug\net8.0\Database.deps.json
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon - 2\Database\bin\Debug\net8.0\Database.runtimeconfig.json
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon - 2\Database\bin\Debug\net8.0\Database.dll
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon - 2\Database\bin\Debug\net8.0\Database.pdb
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon - 2\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon - 2\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon - 2\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon - 2\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon - 2\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon - 2\Database\obj\Debug\net8.0\Database.sourcelink.json
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon - 2\Database\obj\Debug\net8.0\Database.dll
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon - 2\Database\obj\Debug\net8.0\refint\Database.dll
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon - 2\Database\obj\Debug\net8.0\Database.pdb
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon - 2\Database\obj\Debug\net8.0\Database.genruntimeconfig.cache
+C:\Users\Khaled\Desktop\Taskalyze backend - Hackathoon - 2\Database\obj\Debug\net8.0\ref\Database.dll

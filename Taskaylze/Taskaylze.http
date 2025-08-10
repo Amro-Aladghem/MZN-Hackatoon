@@ -1,0 +1,6 @@
+@Taskaylze_HostAddress = http://localhost:5018
+
+GET {{Taskaylze_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

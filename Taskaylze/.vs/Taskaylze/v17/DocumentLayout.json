@@ -1,0 +1,2645 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|solutionrelative:controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EC5D05-FAD6-4E45-A4E9-6BBFC1655D44}|..\\Database\\Database.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\database\\entites\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|solutionrelative:jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|solutionrelative:tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\middlewares\\jwtfromcookiemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|solutionrelative:middlewares\\jwtfromcookiemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\middlewares\\handleglobalexeptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|solutionrelative:middlewares\\handleglobalexeptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\controllers\\jobapplicationresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|solutionrelative:controllers\\jobapplicationresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\controllers\\applicationoffercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|solutionrelative:controllers\\applicationoffercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\controllers\\seekercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|solutionrelative:controllers\\seekercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\controllers\\recruitercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|solutionrelative:controllers\\recruitercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\taskaylze.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|solutionrelative:taskaylze.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\taskalayze.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|solutionrelative:taskalayze.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\JobApplicactionServices\\JobAppliactionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|c:\\users\\khaled\\desktop\\taskalyze backend - hackathoon - 2\\taskaylze\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0124B653-5FF2-4B75-B6BD-24AADE8397F9}|Taskalayze.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250611142631_add-ApplicationsResultQuestions-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250611140846_add-ApplicationsResultQuestions-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250610160953_addAiSummaryColToJobApplicationTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521160051_fixingTimeToCompleteIssue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521155807_FixingProblemTimeToComplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521155557_delteTimeToCompleteColForFixing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\AIServices\\ApplicationGemma3SummaryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\AIServices\\ApplicationSumbitWithGeminiFlashLiteService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\UploadServices\\IUploadService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\AIServices\\Interfaces\\IAiApplicationSummery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\UploadServices\\CloudinaryImageUploadService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\UploadServices\\BlobStorageUploadService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\RecruiterServices\\RecruiterApplicationUsageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\JobApplicationResultServices\\JobApplicationResultService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\Coordinators\\JobApplicationSumbitCoordinatorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\SeekerServices\\SeekerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\PersonServices\\PersonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Seeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\SecurityServices\\PasswordServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\Coordinators\\RecruiterLaunshCoordinatorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\RecruiterServices\\RecruiterServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\RecruiterServices\\Interfaces\\IRecruiterApplicationUsageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\Coordinators\\ApplicationPostingCoordinatorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Recruiter_Application_Usage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Recruiter\\RecruiterAccountInfoDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Recruiter\\RecruiterCompleteProfileDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\PersonRegisterDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Seeker\\SeekerCompleteInfoDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationFullDetailsDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Seeker\\SeekerProfileInfoDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\PersonProfileInfoDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\PersonAccountInfoDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Seeker\\SeekerAccountInfoDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultsResponseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultsRequestDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\JobApplicationResultServices\\JobApplicationResultQuestionsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\ApplicationResultQuestion\\ApplicationResultQuestionDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultSumbitResponseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Application_Result_Question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\AIServices\\Interfaces\\IAiApplicationSumbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationStartResponseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Job_Application_Result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\ApplicationShortInfoDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\AddApplicationJopDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250619165908_addBannedStatusRow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultExamResponseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\ApplicationResultQuestion\\ApplicationResultQuestionRequestDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\Coordinators\\RecruiterCompanyCoordinatorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultSumbitInfoDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultListDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250613104515_addDateOfJoindAndSolFileToResultTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250612211548_editJobApplicationResultTableMakeItAllowNullValues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250612205522_addSeedValues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250611142851_addApplicationQuestionsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250610161254_addAiSummeryColToJobApplicationTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Job_Application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\WhatsAppLinkService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationListCardDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationsCardsListResponseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Seeker\\SeekerLoginResponseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\AuthenticatedPersonDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationsListRequestDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\JopAppliactionsPaginatedDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250605200100_addDefaultValueForLastLoggedTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Seeker\\SeekerRegisterDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250605130327_AddLinkedInColInSeekerTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250604202554_editSeekerTableToAllowIsProfileCompolete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Recruiter\\RecruiterLoginResponseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\JobApplicationOfferServices\\JobAppliactionOfferService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Job_Application_Offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250604125036_EditJopApplicationOfferTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\CompanyServices\\CompanyService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250603182031_SetCompanyTableColAllowNull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Recruiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\JopApplicationsPaginatedRequestDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250601155714_editApplicationIdRelationWithApplicationResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250531130649_changeTimeToCompleteTypeInApplicationResultTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Application_Result_Status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250530155246_fixedJobSyntaxError.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\UserType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\SubscriptionType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Phone_Code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Job_Type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Job_Level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Governorate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Application_Task_Payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250530154337_fixSyntaxJopTypeTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250530152229_fixSyntaxErrorInJob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\AppDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250511165851_firstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250528191715_Make2500MaxLengthForDescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250528151606_addDefaultValuesToJopApplicationTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopApplicationOffer\\ApplicationOfferDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250526112828_addJopApplicationOfferTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250525194126_AddNumbersOfAppliedAndDateForApplicationTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250522124646_fixNullTypeColInPersonTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\PreRegisterPersonResponseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\PersonLoginDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\PersonGoogleRegister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\PersonGoogleLoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521201034_AddUserTypeForPersonTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\DTOs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521174021_UpdateTypeOfGoogle_Id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\SecurityServices\\ISecurityService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521172150_AddIsProfileCompleteColInRecruiterTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521160610_MakeTimeCompleteAsTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521155007_EditTimeToCompleteColType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\JobApplicationResultServices\\JobApplicationResultService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\ApplicactionServices\\ApplicationManibulationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JobApplicationResult\\ApplicationResultListDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationsListRequestDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\ApplicactionServices\\IApplicationManibulate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\Seeker\\SeekerRegisterDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\SeekerServices\\SeekerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Seeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\PersonServices\\PersonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\Person\\PersonRegisterDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\Coordinators\\ApplicationPostingCoordinatorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\RecruiterServices\\RecruiterServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Recruiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\Coordinators\\RecruiterLaunshCoordinatorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\ApplicactionServices\\AppliactionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\Seeker\\SeekerLoginResponseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Migrations\\20250809120554_firstlanuch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Migrations\\20250809121052_fix-UniversityColSyntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\Seeker\\SeekerCompleteInfoDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\Recruiter\\RecruiterLoginResponseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationListCardDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\JobApplicationResultServices\\JobApplicationResultQuestionsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationsCardsListResponseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\AppliactionsPaginatedDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationsPaginatedRequestDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\AddApplicationDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\ApplicationTypeEnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationFullDetailsDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\Coordinators\\JobApplicationSumbitCoordinatorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Result_Status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Result_Question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\ApplicationType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Task_Payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\University.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\UserType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\SubscriptionType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Phone_Code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Job_Level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Job_Type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Person.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Entites\\Person.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Person.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Entites\\Person.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T01:56:58.941Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtFromCookieMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\MiddleWares\\JwtFromCookieMiddleware.cs",
+              "RelativeDocumentMoniker": "MiddleWares\\JwtFromCookieMiddleware.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\MiddleWares\\JwtFromCookieMiddleware.cs",
+              "RelativeToolTip": "MiddleWares\\JwtFromCookieMiddleware.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T11:09:02.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAArwH4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:03:53.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Database\\Entites\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Database\\Entites\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Database\\Entites\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Database\\Entites\\AppDbContext.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwHkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T13:45:35.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Controllers\\JobApplicationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobApplicationController.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Controllers\\JobApplicationController.cs",
+              "RelativeToolTip": "Controllers\\JobApplicationController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAK8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:50:44.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T15:51:29.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "JwtOptions.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\JwtOptions.cs",
+              "RelativeToolTip": "JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:56:49.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\TokenService.cs",
+              "RelativeDocumentMoniker": "TokenService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\TokenService.cs",
+              "RelativeToolTip": "TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:27:40.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HandleGlobalExeptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\MiddleWares\\HandleGlobalExeptionMiddleware.cs",
+              "RelativeDocumentMoniker": "MiddleWares\\HandleGlobalExeptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\MiddleWares\\HandleGlobalExeptionMiddleware.cs",
+              "RelativeToolTip": "MiddleWares\\HandleGlobalExeptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T17:57:33.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobApplicationResultController.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Controllers\\JobApplicationResultController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobApplicationResultController.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Controllers\\JobApplicationResultController.cs",
+              "RelativeToolTip": "Controllers\\JobApplicationResultController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwLAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:52:01.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationOfferController.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Controllers\\ApplicationOfferController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApplicationOfferController.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Controllers\\ApplicationOfferController.cs",
+              "RelativeToolTip": "Controllers\\ApplicationOfferController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:41:29.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "JobApplicationResultService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\JobApplicationResultServices\\JobApplicationResultService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Services\\JobApplicationResultServices\\JobApplicationResultService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\JobApplicationResultServices\\JobApplicationResultService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Services\\JobApplicationResultServices\\JobApplicationResultService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA2wCYAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:24:09.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "ApplicationManibulationService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\ApplicactionServices\\ApplicationManibulationService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Services\\ApplicactionServices\\ApplicationManibulationService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\ApplicactionServices\\ApplicationManibulationService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Services\\ApplicactionServices\\ApplicationManibulationService.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAkwG8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T14:17:11.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "ApplicationResultListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JobApplicationResult\\ApplicationResultListDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\JobApplicationResult\\ApplicationResultListDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JobApplicationResult\\ApplicationResultListDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\JobApplicationResult\\ApplicationResultListDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T10:27:13.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "ApplicationsListRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationsListRequestDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationsListRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationsListRequestDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationsListRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T15:51:50.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "IApplicationManibulate.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\ApplicactionServices\\IApplicationManibulate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Services\\ApplicactionServices\\IApplicationManibulate.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\ApplicactionServices\\IApplicationManibulate.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Services\\ApplicactionServices\\IApplicationManibulate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T15:32:10.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "SeekerRegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\Seeker\\SeekerRegisterDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\Seeker\\SeekerRegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\Seeker\\SeekerRegisterDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\Seeker\\SeekerRegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:22:53.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SeekerController.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Controllers\\SeekerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SeekerController.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Controllers\\SeekerController.cs",
+              "RelativeToolTip": "Controllers\\SeekerController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAnwH4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:19:05.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "SeekerService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\SeekerServices\\SeekerService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Services\\SeekerServices\\SeekerService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\SeekerServices\\SeekerService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Services\\SeekerServices\\SeekerService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAnwEwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:18:20.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "Seeker.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Seeker.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\Seeker.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Seeker.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\Seeker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:33:17.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\PersonServices\\PersonService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Services\\PersonServices\\PersonService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\PersonServices\\PersonService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Services\\PersonServices\\PersonService.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAnwKcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T11:29:01.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "PersonRegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\Person\\PersonRegisterDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\Person\\PersonRegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\Person\\PersonRegisterDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\Person\\PersonRegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T18:55:00.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "ApplicationPostingCoordinatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\Coordinators\\ApplicationPostingCoordinatorService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Services\\Coordinators\\ApplicationPostingCoordinatorService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\Coordinators\\ApplicationPostingCoordinatorService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Services\\Coordinators\\ApplicationPostingCoordinatorService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAnwCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T12:52:08.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:16:15.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RecruiterController.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Controllers\\RecruiterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RecruiterController.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Controllers\\RecruiterController.cs",
+              "RelativeToolTip": "Controllers\\RecruiterController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAArwI4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:07:36.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 140,
+              "Title": "RecruiterServices.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\RecruiterServices\\RecruiterServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Services\\RecruiterServices\\RecruiterServices.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\RecruiterServices\\RecruiterServices.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Services\\RecruiterServices\\RecruiterServices.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA0wF0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T17:17:47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 141,
+              "Title": "Recruiter.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Recruiter.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\Recruiter.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Recruiter.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\Recruiter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:12:15.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 142,
+              "Title": "RecruiterLaunshCoordinatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\Coordinators\\RecruiterLaunshCoordinatorService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Services\\Coordinators\\RecruiterLaunshCoordinatorService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\Coordinators\\RecruiterLaunshCoordinatorService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Services\\Coordinators\\RecruiterLaunshCoordinatorService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAnwCEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T11:35:58.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Taskaylze.http",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Taskaylze.http",
+              "RelativeDocumentMoniker": "Taskaylze.http",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Taskaylze.http",
+              "RelativeToolTip": "Taskaylze.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-02T12:37:29.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Taskalayze.csproj",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Taskalayze.csproj",
+              "RelativeDocumentMoniker": "Taskalayze.csproj",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Taskalayze.csproj",
+              "RelativeToolTip": "Taskalayze.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T11:28:55.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 143,
+              "Title": "AppliactionService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\ApplicactionServices\\AppliactionService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Services\\ApplicactionServices\\AppliactionService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\ApplicactionServices\\AppliactionService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Services\\ApplicactionServices\\AppliactionService.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAnwNsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:17:05.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 144,
+              "Title": "SeekerLoginResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\Seeker\\SeekerLoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\Seeker\\SeekerLoginResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\Seeker\\SeekerLoginResponseDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\Seeker\\SeekerLoginResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:18:46.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 145,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\AppDbContext.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:17:47.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 146,
+              "Title": "20250809120554_firstlanuch.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Migrations\\20250809120554_firstlanuch.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Migrations\\20250809120554_firstlanuch.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Migrations\\20250809120554_firstlanuch.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Migrations\\20250809120554_firstlanuch.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwFsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:05:55.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 147,
+              "Title": "20250809121052_fix-UniversityColSyntax.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Migrations\\20250809121052_fix-UniversityColSyntax.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Migrations\\20250809121052_fix-UniversityColSyntax.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Migrations\\20250809121052_fix-UniversityColSyntax.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Migrations\\20250809121052_fix-UniversityColSyntax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:10:53.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 148,
+              "Title": "SeekerCompleteInfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\Seeker\\SeekerCompleteInfoDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\Seeker\\SeekerCompleteInfoDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\Seeker\\SeekerCompleteInfoDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\Seeker\\SeekerCompleteInfoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:30:23.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 149,
+              "Title": "RecruiterLoginResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\Recruiter\\RecruiterLoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\Recruiter\\RecruiterLoginResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\Recruiter\\RecruiterLoginResponseDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\Recruiter\\RecruiterLoginResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T18:47:22.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 150,
+              "Title": "ApplicationListCardDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationListCardDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationListCardDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationListCardDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationListCardDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T16:05:39.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 151,
+              "Title": "JobApplicationResultQuestionsService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\JobApplicationResultServices\\JobApplicationResultQuestionsService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Services\\JobApplicationResultServices\\JobApplicationResultQuestionsService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\JobApplicationResultServices\\JobApplicationResultQuestionsService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Services\\JobApplicationResultServices\\JobApplicationResultQuestionsService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T17:22:57.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 152,
+              "Title": "ApplicationsCardsListResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationsCardsListResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationsCardsListResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationsCardsListResponseDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationsCardsListResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T17:06:30.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 153,
+              "Title": "AppliactionsPaginatedDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\AppliactionsPaginatedDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\AppliactionsPaginatedDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\AppliactionsPaginatedDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\AppliactionsPaginatedDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T15:52:53.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 154,
+              "Title": "ApplicationsPaginatedRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationsPaginatedRequestDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationsPaginatedRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationsPaginatedRequestDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationsPaginatedRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T15:52:14.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 155,
+              "Title": "AddApplicationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\AddApplicationDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\AddApplicationDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\AddApplicationDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\AddApplicationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T15:37:55.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 156,
+              "Title": "ApplicationTypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\ApplicationTypeEnum.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Services\\ApplicationTypeEnum.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\ApplicationTypeEnum.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Services\\ApplicationTypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T15:46:55.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 157,
+              "Title": "ApplicationFullDetailsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationFullDetailsDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationFullDetailsDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationFullDetailsDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\DTOs\\JopAppliaction\\ApplicationFullDetailsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T14:29:42.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 158,
+              "Title": "JobApplicationSumbitCoordinatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\Coordinators\\JobApplicationSumbitCoordinatorService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Services\\Coordinators\\JobApplicationSumbitCoordinatorService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Services\\Coordinators\\JobApplicationSumbitCoordinatorService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Services\\Coordinators\\JobApplicationSumbitCoordinatorService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T12:51:53.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 159,
+              "Title": "Application_Result.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Result.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Result.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Result.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Result.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:19:07.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 160,
+              "Title": "Application_Result_Status.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Result_Status.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Result_Status.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Result_Status.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Result_Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:18:55.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 161,
+              "Title": "Application_Result_Question.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Result_Question.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Result_Question.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Result_Question.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Result_Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T10:52:41.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 162,
+              "Title": "ApplicationType.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\ApplicationType.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\ApplicationType.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\ApplicationType.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\ApplicationType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:06:31.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 163,
+              "Title": "Application_Task_Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Task_Payment.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Task_Payment.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Task_Payment.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Task_Payment.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:18:57.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 164,
+              "Title": "Application_Offer.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Offer.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Offer.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Offer.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\Application_Offer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:18:31.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 165,
+              "Title": "University.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\University.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\University.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\University.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\University.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T10:52:30.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 166,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\UserType.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\UserType.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\UserType.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\UserType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:34:18.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 167,
+              "Title": "SubscriptionType.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\SubscriptionType.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\SubscriptionType.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\SubscriptionType.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\SubscriptionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T10:59:28.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 168,
+              "Title": "Phone_Code.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Phone_Code.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\Phone_Code.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Phone_Code.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\Phone_Code.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:35:35.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 169,
+              "Title": "Job_Level.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Job_Level.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\Job_Level.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Job_Level.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\Job_Level.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:20:49.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 170,
+              "Title": "Job_Type.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Job_Type.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\Job_Type.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon\\Database\\Entites\\Job_Type.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend - Hackathoon\\Database\\Entites\\Job_Type.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T10:52:39.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JobAppliactionService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\JobApplicactionServices\\JobAppliactionService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\JobApplicactionServices\\JobAppliactionService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\JobApplicactionServices\\JobAppliactionService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\JobApplicactionServices\\JobAppliactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:30:27.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationGemma3SummaryService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\AIServices\\ApplicationGemma3SummaryService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\ExternalServices\\AIServices\\ApplicationGemma3SummaryService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\AIServices\\ApplicationGemma3SummaryService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\ExternalServices\\AIServices\\ApplicationGemma3SummaryService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAewDkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:57:55.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationSumbitWithGeminiFlashLiteService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\AIServices\\ApplicationSumbitWithGeminiFlashLiteService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\ExternalServices\\AIServices\\ApplicationSumbitWithGeminiFlashLiteService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\AIServices\\ApplicationSumbitWithGeminiFlashLiteService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\ExternalServices\\AIServices\\ApplicationSumbitWithGeminiFlashLiteService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:50:28.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUploadService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\UploadServices\\IUploadService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\ExternalServices\\UploadServices\\IUploadService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\UploadServices\\IUploadService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\ExternalServices\\UploadServices\\IUploadService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:37:14.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IAiApplicationSummery.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\AIServices\\Interfaces\\IAiApplicationSummery.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\ExternalServices\\AIServices\\Interfaces\\IAiApplicationSummery.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\AIServices\\Interfaces\\IAiApplicationSummery.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\ExternalServices\\AIServices\\Interfaces\\IAiApplicationSummery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:37:55.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CloudinaryImageUploadService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\UploadServices\\CloudinaryImageUploadService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\ExternalServices\\UploadServices\\CloudinaryImageUploadService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\UploadServices\\CloudinaryImageUploadService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\ExternalServices\\UploadServices\\CloudinaryImageUploadService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIA4wDYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:36:54.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BlobStorageUploadService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\UploadServices\\BlobStorageUploadService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\ExternalServices\\UploadServices\\BlobStorageUploadService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\UploadServices\\BlobStorageUploadService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\ExternalServices\\UploadServices\\BlobStorageUploadService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:47:54.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RecruiterApplicationUsageService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\RecruiterServices\\RecruiterApplicationUsageService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\RecruiterServices\\RecruiterApplicationUsageService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\RecruiterServices\\RecruiterApplicationUsageService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\RecruiterServices\\RecruiterApplicationUsageService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:02:24.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Entites\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\AppDbContext.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Entites\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:41:01.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "JobApplicationResultService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\JobApplicationResultServices\\JobApplicationResultService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\JobApplicationResultServices\\JobApplicationResultService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\JobApplicationResultServices\\JobApplicationResultService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\JobApplicationResultServices\\JobApplicationResultService.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAiwLsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:28:32.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "JobApplicationSumbitCoordinatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\Coordinators\\JobApplicationSumbitCoordinatorService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\Coordinators\\JobApplicationSumbitCoordinatorService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\Coordinators\\JobApplicationSumbitCoordinatorService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\Coordinators\\JobApplicationSumbitCoordinatorService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAtwB0AAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T11:56:19.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SeekerService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\SeekerServices\\SeekerService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\SeekerServices\\SeekerService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\SeekerServices\\SeekerService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\SeekerServices\\SeekerService.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAmwBYBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T19:27:31.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\PersonServices\\PersonService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\PersonServices\\PersonService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\PersonServices\\PersonService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\PersonServices\\PersonService.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAIA+wP8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:34:06.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T16:14:04.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend - Hackathoon - 2\\Taskaylze\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-21T09:20:51.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Seeker.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Seeker.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Entites\\Seeker.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Seeker.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Entites\\Seeker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T02:20:08.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PasswordServices.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\SecurityServices\\PasswordServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\SecurityServices\\PasswordServices.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\SecurityServices\\PasswordServices.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\SecurityServices\\PasswordServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:09:00.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RecruiterLaunshCoordinatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\Coordinators\\RecruiterLaunshCoordinatorService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\Coordinators\\RecruiterLaunshCoordinatorService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\Coordinators\\RecruiterLaunshCoordinatorService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\Coordinators\\RecruiterLaunshCoordinatorService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:28:55.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RecruiterServices.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\RecruiterServices\\RecruiterServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\RecruiterServices\\RecruiterServices.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\RecruiterServices\\RecruiterServices.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\RecruiterServices\\RecruiterServices.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADgvzkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:23:50.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IRecruiterApplicationUsageService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\RecruiterServices\\Interfaces\\IRecruiterApplicationUsageService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\RecruiterServices\\Interfaces\\IRecruiterApplicationUsageService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\RecruiterServices\\Interfaces\\IRecruiterApplicationUsageService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\RecruiterServices\\Interfaces\\IRecruiterApplicationUsageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:19:42.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ApplicationPostingCoordinatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\Coordinators\\ApplicationPostingCoordinatorService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\Coordinators\\ApplicationPostingCoordinatorService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\Coordinators\\ApplicationPostingCoordinatorService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\Coordinators\\ApplicationPostingCoordinatorService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBJwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T14:44:30.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Recruiter_Application_Usage.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Recruiter_Application_Usage.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Entites\\Recruiter_Application_Usage.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Recruiter_Application_Usage.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Entites\\Recruiter_Application_Usage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:25:28.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RecruiterAccountInfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Recruiter\\RecruiterAccountInfoDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\Recruiter\\RecruiterAccountInfoDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Recruiter\\RecruiterAccountInfoDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\Recruiter\\RecruiterAccountInfoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:47:01.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RecruiterCompleteProfileDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Recruiter\\RecruiterCompleteProfileDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\Recruiter\\RecruiterCompleteProfileDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Recruiter\\RecruiterCompleteProfileDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\Recruiter\\RecruiterCompleteProfileDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:13:29.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PersonRegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\PersonRegisterDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\Person\\PersonRegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\PersonRegisterDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\Person\\PersonRegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:09:41.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SeekerCompleteInfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Seeker\\SeekerCompleteInfoDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\Seeker\\SeekerCompleteInfoDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Seeker\\SeekerCompleteInfoDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\Seeker\\SeekerCompleteInfoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:59:59.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "JobApplicationFullDetailsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationFullDetailsDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationFullDetailsDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationFullDetailsDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationFullDetailsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:02:38.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SeekerProfileInfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Seeker\\SeekerProfileInfoDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\Seeker\\SeekerProfileInfoDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Seeker\\SeekerProfileInfoDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\Seeker\\SeekerProfileInfoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:07:42.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PersonProfileInfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\PersonProfileInfoDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\Person\\PersonProfileInfoDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\PersonProfileInfoDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\Person\\PersonProfileInfoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:10:29.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PersonAccountInfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\PersonAccountInfoDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\Person\\PersonAccountInfoDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\PersonAccountInfoDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\Person\\PersonAccountInfoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:43:16.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SeekerAccountInfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Seeker\\SeekerAccountInfoDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\Seeker\\SeekerAccountInfoDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Seeker\\SeekerAccountInfoDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\Seeker\\SeekerAccountInfoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:22:05.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ApplicationResultsResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultsResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultsResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultsResponseDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultsResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:43:28.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ApplicationResultsRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultsRequestDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultsRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultsRequestDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultsRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:32:52.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "JobApplicationResultQuestionsService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\JobApplicationResultServices\\JobApplicationResultQuestionsService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\JobApplicationResultServices\\JobApplicationResultQuestionsService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\JobApplicationResultServices\\JobApplicationResultQuestionsService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\JobApplicationResultServices\\JobApplicationResultQuestionsService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T21:59:26.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ApplicationResultQuestionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\ApplicationResultQuestion\\ApplicationResultQuestionDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\ApplicationResultQuestion\\ApplicationResultQuestionDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\ApplicationResultQuestion\\ApplicationResultQuestionDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\ApplicationResultQuestion\\ApplicationResultQuestionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:24:47.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ApplicationResultSumbitResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultSumbitResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultSumbitResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultSumbitResponseDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultSumbitResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:30:08.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Application_Result_Question.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Application_Result_Question.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Entites\\Application_Result_Question.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Application_Result_Question.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Entites\\Application_Result_Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:03:47.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IAiApplicationSumbit.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\AIServices\\Interfaces\\IAiApplicationSumbit.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\ExternalServices\\AIServices\\Interfaces\\IAiApplicationSumbit.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\AIServices\\Interfaces\\IAiApplicationSumbit.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\ExternalServices\\AIServices\\Interfaces\\IAiApplicationSumbit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:43:37.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "JobApplicationStartResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationStartResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationStartResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationStartResponseDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationStartResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T20:28:04.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Job_Application_Result.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Job_Application_Result.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Entites\\Job_Application_Result.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Job_Application_Result.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Entites\\Job_Application_Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T02:38:35.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ApplicationShortInfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\ApplicationShortInfoDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\JopAppliaction\\ApplicationShortInfoDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\ApplicationShortInfoDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\JopAppliaction\\ApplicationShortInfoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:32:42.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AddApplicationJopDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\AddApplicationJopDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\JopAppliaction\\AddApplicationJopDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\AddApplicationJopDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\JopAppliaction\\AddApplicationJopDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:08:26.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20250619165908_addBannedStatusRow.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250619165908_addBannedStatusRow.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250619165908_addBannedStatusRow.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250619165908_addBannedStatusRow.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250619165908_addBannedStatusRow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T16:59:09.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ApplicationResultExamResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultExamResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultExamResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultExamResponseDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultExamResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:39:15.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ApplicationResultQuestionRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\ApplicationResultQuestion\\ApplicationResultQuestionRequestDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\ApplicationResultQuestion\\ApplicationResultQuestionRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\ApplicationResultQuestion\\ApplicationResultQuestionRequestDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\ApplicationResultQuestion\\ApplicationResultQuestionRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:59:33.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "RecruiterCompanyCoordinatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\Coordinators\\RecruiterCompanyCoordinatorService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\Coordinators\\RecruiterCompanyCoordinatorService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\Coordinators\\RecruiterCompanyCoordinatorService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\Coordinators\\RecruiterCompanyCoordinatorService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:29:56.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ApplicationResultSumbitInfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultSumbitInfoDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultSumbitInfoDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultSumbitInfoDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultSumbitInfoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:46:24.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ApplicationResultListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultListDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultListDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultListDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\JobApplicationResult\\ApplicationResultListDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:38:48.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20250613104515_addDateOfJoindAndSolFileToResultTable.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250613104515_addDateOfJoindAndSolFileToResultTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250613104515_addDateOfJoindAndSolFileToResultTable.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250613104515_addDateOfJoindAndSolFileToResultTable.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250613104515_addDateOfJoindAndSolFileToResultTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:45:16.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20250612211548_editJobApplicationResultTableMakeItAllowNullValues.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250612211548_editJobApplicationResultTableMakeItAllowNullValues.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250612211548_editJobApplicationResultTableMakeItAllowNullValues.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250612211548_editJobApplicationResultTableMakeItAllowNullValues.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250612211548_editJobApplicationResultTableMakeItAllowNullValues.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T21:15:49.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20250612205522_addSeedValues.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250612205522_addSeedValues.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250612205522_addSeedValues.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250612205522_addSeedValues.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250612205522_addSeedValues.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T20:55:23.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20250611142851_addApplicationQuestionsTable.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250611142851_addApplicationQuestionsTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250611142851_addApplicationQuestionsTable.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250611142851_addApplicationQuestionsTable.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250611142851_addApplicationQuestionsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:28:51.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250611142631_add-ApplicationsResultQuestions-table.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250611142631_add-ApplicationsResultQuestions-table.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250611142631_add-ApplicationsResultQuestions-table.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250611142631_add-ApplicationsResultQuestions-table.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250611142631_add-ApplicationsResultQuestions-table.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:26:32.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250611140846_add-ApplicationsResultQuestions-table.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250611140846_add-ApplicationsResultQuestions-table.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250611140846_add-ApplicationsResultQuestions-table.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250611140846_add-ApplicationsResultQuestions-table.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250611140846_add-ApplicationsResultQuestions-table.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:08:47.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20250610161254_addAiSummeryColToJobApplicationTable.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250610161254_addAiSummeryColToJobApplicationTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250610161254_addAiSummeryColToJobApplicationTable.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250610161254_addAiSummeryColToJobApplicationTable.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250610161254_addAiSummeryColToJobApplicationTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:12:54.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250610160953_addAiSummaryColToJobApplicationTable.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250610160953_addAiSummaryColToJobApplicationTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250610160953_addAiSummaryColToJobApplicationTable.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250610160953_addAiSummaryColToJobApplicationTable.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250610160953_addAiSummaryColToJobApplicationTable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:09:54.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Job_Application.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Job_Application.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Entites\\Job_Application.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Job_Application.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Entites\\Job_Application.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBZwBcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:59:49.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "WhatsAppLinkService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\WhatsAppLinkService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\ExternalServices\\WhatsAppLinkService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\ExternalServices\\WhatsAppLinkService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\ExternalServices\\WhatsAppLinkService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T17:37:14.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "JobApplicationListCardDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationListCardDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationListCardDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationListCardDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationListCardDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:30:17.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "JobApplicationsCardsListResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationsCardsListResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationsCardsListResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationsCardsListResponseDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationsCardsListResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:36:17.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "SeekerLoginResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Seeker\\SeekerLoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\Seeker\\SeekerLoginResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Seeker\\SeekerLoginResponseDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\Seeker\\SeekerLoginResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T19:45:45.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "AuthenticatedPersonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\AuthenticatedPersonDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\Person\\AuthenticatedPersonDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\AuthenticatedPersonDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\Person\\AuthenticatedPersonDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:16:24.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "JobApplicationsListRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationsListRequestDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationsListRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationsListRequestDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\JopAppliaction\\JobApplicationsListRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:26:29.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "JopAppliactionsPaginatedDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\JopAppliactionsPaginatedDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\JopAppliaction\\JopAppliactionsPaginatedDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\JopAppliactionsPaginatedDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\JopAppliaction\\JopAppliactionsPaginatedDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:29:00.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20250605200100_addDefaultValueForLastLoggedTime.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250605200100_addDefaultValueForLastLoggedTime.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250605200100_addDefaultValueForLastLoggedTime.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250605200100_addDefaultValueForLastLoggedTime.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250605200100_addDefaultValueForLastLoggedTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T20:01:01.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "SeekerRegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Seeker\\SeekerRegisterDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\Seeker\\SeekerRegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Seeker\\SeekerRegisterDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\Seeker\\SeekerRegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T19:53:33.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "20250605130327_AddLinkedInColInSeekerTable.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250605130327_AddLinkedInColInSeekerTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250605130327_AddLinkedInColInSeekerTable.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250605130327_AddLinkedInColInSeekerTable.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250605130327_AddLinkedInColInSeekerTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:03:28.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "20250604202554_editSeekerTableToAllowIsProfileCompolete.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250604202554_editSeekerTableToAllowIsProfileCompolete.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250604202554_editSeekerTableToAllowIsProfileCompolete.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250604202554_editSeekerTableToAllowIsProfileCompolete.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250604202554_editSeekerTableToAllowIsProfileCompolete.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T20:25:55.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "RecruiterLoginResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Recruiter\\RecruiterLoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\Recruiter\\RecruiterLoginResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Recruiter\\RecruiterLoginResponseDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\Recruiter\\RecruiterLoginResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:37:20.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "JobAppliactionOfferService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\JobApplicationOfferServices\\JobAppliactionOfferService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\JobApplicationOfferServices\\JobAppliactionOfferService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\JobApplicationOfferServices\\JobAppliactionOfferService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\JobApplicationOfferServices\\JobAppliactionOfferService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:36:23.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Job_Application_Offer.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Job_Application_Offer.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Entites\\Job_Application_Offer.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Job_Application_Offer.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Entites\\Job_Application_Offer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:25:21.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "20250604125036_EditJopApplicationOfferTable.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250604125036_EditJopApplicationOfferTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250604125036_EditJopApplicationOfferTable.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250604125036_EditJopApplicationOfferTable.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250604125036_EditJopApplicationOfferTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:50:36.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\CompanyServices\\CompanyService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\CompanyServices\\CompanyService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\CompanyServices\\CompanyService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\CompanyServices\\CompanyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:23:15.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Company.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Entites\\Company.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Company.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Entites\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T02:24:04.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "20250603182031_SetCompanyTableColAllowNull.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250603182031_SetCompanyTableColAllowNull.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250603182031_SetCompanyTableColAllowNull.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250603182031_SetCompanyTableColAllowNull.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250603182031_SetCompanyTableColAllowNull.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:20:32.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Recruiter.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Recruiter.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Entites\\Recruiter.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Recruiter.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Entites\\Recruiter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T02:29:21.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "JopApplicationsPaginatedRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\JopApplicationsPaginatedRequestDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\JopAppliaction\\JopApplicationsPaginatedRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopAppliaction\\JopApplicationsPaginatedRequestDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\JopAppliaction\\JopApplicationsPaginatedRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:32:24.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "20250601155714_editApplicationIdRelationWithApplicationResult.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250601155714_editApplicationIdRelationWithApplicationResult.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250601155714_editApplicationIdRelationWithApplicationResult.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250601155714_editApplicationIdRelationWithApplicationResult.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250601155714_editApplicationIdRelationWithApplicationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:57:15.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "20250531130649_changeTimeToCompleteTypeInApplicationResultTable.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250531130649_changeTimeToCompleteTypeInApplicationResultTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250531130649_changeTimeToCompleteTypeInApplicationResultTable.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250531130649_changeTimeToCompleteTypeInApplicationResultTable.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250531130649_changeTimeToCompleteTypeInApplicationResultTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:06:50.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Application_Result_Status.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Application_Result_Status.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Entites\\Application_Result_Status.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Application_Result_Status.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Entites\\Application_Result_Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T02:36:55.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "20250530155246_fixedJobSyntaxError.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250530155246_fixedJobSyntaxError.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250530155246_fixedJobSyntaxError.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250530155246_fixedJobSyntaxError.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250530155246_fixedJobSyntaxError.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAQwIwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:52:46.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\UserType.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Entites\\UserType.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\UserType.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Entites\\UserType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:38:46.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "SubscriptionType.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\SubscriptionType.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Entites\\SubscriptionType.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\SubscriptionType.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Entites\\SubscriptionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:32:44.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "Phone_Code.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Phone_Code.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Entites\\Phone_Code.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Phone_Code.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Entites\\Phone_Code.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T02:32:57.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Job_Type.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Job_Type.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Entites\\Job_Type.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Job_Type.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Entites\\Job_Type.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T02:18:41.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "Job_Level.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Job_Level.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Entites\\Job_Level.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Job_Level.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Entites\\Job_Level.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T02:16:12.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "Governorate.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Governorate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Entites\\Governorate.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Governorate.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Entites\\Governorate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T02:09:39.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Country.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Entites\\Country.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Country.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Entites\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T02:06:22.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "Application_Task_Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Application_Task_Payment.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Entites\\Application_Task_Payment.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Entites\\Application_Task_Payment.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Entites\\Application_Task_Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:38:07.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "20250530154337_fixSyntaxJopTypeTable.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250530154337_fixSyntaxJopTypeTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250530154337_fixSyntaxJopTypeTable.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250530154337_fixSyntaxJopTypeTable.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250530154337_fixSyntaxJopTypeTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:43:38.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "20250530152229_fixSyntaxErrorInJob.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250530152229_fixSyntaxErrorInJob.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250530152229_fixSyntaxErrorInJob.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250530152229_fixSyntaxErrorInJob.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250530152229_fixSyntaxErrorInJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:22:29.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:43:50.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "20250511165851_firstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250511165851_firstMigration.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250511165851_firstMigration.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250511165851_firstMigration.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250511165851_firstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:58:51.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "20250528191715_Make2500MaxLengthForDescription.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250528191715_Make2500MaxLengthForDescription.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250528191715_Make2500MaxLengthForDescription.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250528191715_Make2500MaxLengthForDescription.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250528191715_Make2500MaxLengthForDescription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:17:16.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "20250528151606_addDefaultValuesToJopApplicationTable.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250528151606_addDefaultValuesToJopApplicationTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250528151606_addDefaultValuesToJopApplicationTable.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250528151606_addDefaultValuesToJopApplicationTable.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250528151606_addDefaultValuesToJopApplicationTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:16:07.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "ApplicationOfferDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopApplicationOffer\\ApplicationOfferDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\JopApplicationOffer\\ApplicationOfferDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\JopApplicationOffer\\ApplicationOfferDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\JopApplicationOffer\\ApplicationOfferDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:31:25.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "20250526112828_addJopApplicationOfferTable.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250526112828_addJopApplicationOfferTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250526112828_addJopApplicationOfferTable.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250526112828_addJopApplicationOfferTable.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250526112828_addJopApplicationOfferTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:28:29.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "20250525194126_AddNumbersOfAppliedAndDateForApplicationTable.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250525194126_AddNumbersOfAppliedAndDateForApplicationTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250525194126_AddNumbersOfAppliedAndDateForApplicationTable.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250525194126_AddNumbersOfAppliedAndDateForApplicationTable.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250525194126_AddNumbersOfAppliedAndDateForApplicationTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:41:26.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "20250522124646_fixNullTypeColInPersonTable.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250522124646_fixNullTypeColInPersonTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250522124646_fixNullTypeColInPersonTable.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250522124646_fixNullTypeColInPersonTable.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250522124646_fixNullTypeColInPersonTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:46:46.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "PreRegisterPersonResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\PreRegisterPersonResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\Person\\PreRegisterPersonResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\PreRegisterPersonResponseDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\Person\\PreRegisterPersonResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:10:58.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "PersonLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\PersonLoginDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\Person\\PersonLoginDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\PersonLoginDTO.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\Person\\PersonLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:57:10.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "PersonGoogleRegister.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\PersonGoogleRegister.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\Person\\PersonGoogleRegister.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\PersonGoogleRegister.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\Person\\PersonGoogleRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:05:07.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "PersonGoogleLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\PersonGoogleLoginDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\Person\\PersonGoogleLoginDto.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\Person\\PersonGoogleLoginDto.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\Person\\PersonGoogleLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:01:01.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "20250521201034_AddUserTypeForPersonTable.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521201034_AddUserTypeForPersonTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250521201034_AddUserTypeForPersonTable.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521201034_AddUserTypeForPersonTable.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250521201034_AddUserTypeForPersonTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:10:34.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "DTOs.csproj",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\DTOs.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\DTOs\\DTOs.csproj",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\DTOs\\DTOs.csproj",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\DTOs\\DTOs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T19:36:31.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "20250521174021_UpdateTypeOfGoogle_Id.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521174021_UpdateTypeOfGoogle_Id.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250521174021_UpdateTypeOfGoogle_Id.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521174021_UpdateTypeOfGoogle_Id.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250521174021_UpdateTypeOfGoogle_Id.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:40:21.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "ISecurityService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\SecurityServices\\ISecurityService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Services\\SecurityServices\\ISecurityService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Services\\SecurityServices\\ISecurityService.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Services\\SecurityServices\\ISecurityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:16:49.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "20250521172150_AddIsProfileCompleteColInRecruiterTable.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521172150_AddIsProfileCompleteColInRecruiterTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250521172150_AddIsProfileCompleteColInRecruiterTable.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521172150_AddIsProfileCompleteColInRecruiterTable.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250521172150_AddIsProfileCompleteColInRecruiterTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:21:50.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "20250521160610_MakeTimeCompleteAsTime.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521160610_MakeTimeCompleteAsTime.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250521160610_MakeTimeCompleteAsTime.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521160610_MakeTimeCompleteAsTime.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250521160610_MakeTimeCompleteAsTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:06:11.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250521160051_fixingTimeToCompleteIssue.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521160051_fixingTimeToCompleteIssue.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250521160051_fixingTimeToCompleteIssue.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521160051_fixingTimeToCompleteIssue.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250521160051_fixingTimeToCompleteIssue.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:00:51.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250521155807_FixingProblemTimeToComplete.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521155807_FixingProblemTimeToComplete.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250521155807_FixingProblemTimeToComplete.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521155807_FixingProblemTimeToComplete.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250521155807_FixingProblemTimeToComplete.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:58:07.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250521155557_delteTimeToCompleteColForFixing.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521155557_delteTimeToCompleteColForFixing.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250521155557_delteTimeToCompleteColForFixing.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521155557_delteTimeToCompleteColForFixing.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250521155557_delteTimeToCompleteColForFixing.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:55:57.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "20250521155007_EditTimeToCompleteColType.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521155007_EditTimeToCompleteColType.cs",
+              "RelativeDocumentMoniker": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250521155007_EditTimeToCompleteColType.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Taskalyze backend\\Database\\Migrations\\20250521155007_EditTimeToCompleteColType.cs",
+              "RelativeToolTip": "..\\..\\Taskalyze backend\\Database\\Migrations\\20250521155007_EditTimeToCompleteColType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:50:07.66Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
